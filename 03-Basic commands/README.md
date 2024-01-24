@@ -47,18 +47,33 @@ Question | Solution
 ## Access control in Linux
 Question | Solution
  --- | ---
-[]() | [Bash]() |
+[نبرد شِل رضا لینوکس](https://quera.org/college/8903/chapter/32292/lesson/110177/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D8%B4%D9%90%D9%84%20%D8%B1%D8%B6%D8%A7%20%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3.sh) |
+[نبرد ساخت و پاک یوزر](https://quera.org/college/8903/chapter/32292/lesson/111489/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%88%20%D9%BE%D8%A7%DA%A9%20%DB%8C%D9%88%D8%B2%D8%B1.sh) |
+[نبرد میان یوزری](https://quera.org/college/8903/chapter/32292/lesson/111490/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D9%85%DB%8C%D8%A7%D9%86%20%DB%8C%D9%88%D8%B2%D8%B1%DB%8C.sh) |
+[نبرد دسترسی](https://quera.org/college/8903/chapter/32292/lesson/111491/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C.sh) |
+[نبرد دسترسی](https://quera.org/college/8903/chapter/32292/lesson/111491/?submissions_page=1&comments_page=1&comments_filter=ALL) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C.sh) |
+[مساله پکیج منیجر](https://quera.org/college/8903/chapter/32292/lesson/111877/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%85%D8%B3%D8%A7%D9%84%D9%87%20%D9%BE%DA%A9%DB%8C%D8%AC%20%D9%85%D9%86%DB%8C%D8%AC%D8%B1.sh) |
 
 ## Scripting in Linux
 
 Question | Solution
  --- | ---
-[]() | [Bash]() |
+[اولین اسکریپت](https://quera.org/college/8903/chapter/32294/lesson/114579/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D8%A7%D9%88%D9%84%DB%8C%D9%86%20%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA.sh) |
+[ماشین حساب](https://quera.org/college/8903/chapter/32294/lesson/114580/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%AD%D8%B3%D8%A7%D8%A8.sh) |
+[سنگ‌کاغذ‌قیچی](https://quera.org/college/8903/chapter/32294/lesson/114581/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D8%B3%D9%86%DA%AF%E2%80%8C%DA%A9%D8%A7%D8%BA%D8%B0%E2%80%8C%D9%82%DB%8C%DA%86%DB%8C.sh) |
+[ماشین حساب بهتر!](https://quera.org/college/8903/chapter/32294/lesson/114582/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%A8%D9%87%D8%AA%D8%B1!.sh) |
+[Todo List - فاز اول](https://quera.org/college/8903/chapter/32294/lesson/114588/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/Todo%20List%20-%20%D9%81%D8%A7%D8%B2%20%D8%A7%D9%88%D9%84.sh) |
+[آخرت ماشین حساب!](https://quera.org/college/8903/chapter/32294/lesson/114584/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D8%A2%D8%AE%D8%B1%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%AD%D8%B3%D8%A7%D8%A8!.sh) |
+[محاسبه‌گر مساحت](https://quera.org/college/8903/chapter/32294/lesson/114587/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87%E2%80%8C%DA%AF%D8%B1%20%D9%85%D8%B3%D8%A7%D8%AD%D8%AA.sh) |
+[Todo List - فاز دوم](https://quera.org/college/8903/chapter/32294/lesson/114589/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/Todo%20List%20-%20%D9%81%D8%A7%D8%B2%20%D8%AF%D9%88%D9%85.sh) |
+[Todo List - فاز سوم](<https://quera.org/college/8903/chapter/32294/lesson/114590/>) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/Todo%20List%20-%20%D9%81%D8%A7%D8%B2%20%D8%B3%D9%88%D9%85.sh) |
 
 
 ## Processes in Linux
 Question | Solution
  --- | ---
-[]() | [Bash]() |
-
-
+[کارآگاه علوی](https://quera.org/college/8903/chapter/32293/lesson/139304/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87%20%D8%B9%D9%84%D9%88%DB%8C.sh) |
+[pes باز](https://quera.org/college/8903/chapter/32293/lesson/138721/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/pes%20%D8%A8%D8%A7%D8%B2.sh) |
+[اتاق فرمان](https://quera.org/college/8903/chapter/32293/lesson/139820/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/%D8%A7%D8%AA%D8%A7%D9%82%20%D9%81%D8%B1%D9%85%D8%A7%D9%86.sh) |
+[پراسس مزاحم](https://quera.org/college/8903/chapter/32293/lesson/114949/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/%D9%BE%D8%B1%D8%A7%D8%B3%D8%B3%20%D9%85%D8%B2%D8%A7%D8%AD%D9%85.sh) |
+[نفوذی را خارج کن!](https://quera.org/college/8903/chapter/32293/lesson/113968/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/%D9%86%D9%81%D9%88%D8%B0%DB%8C%20%D8%B1%D8%A7%20%D8%AE%D8%A7%D8%B1%D8%AC%20%DA%A9%D9%86!.sh) |
