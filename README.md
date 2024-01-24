@@ -47,19 +47,17 @@ Question | Solution
 ## Access control in Linux
 Question | Solution
  --- | ---
-[عدد فیثاغورثی](https://b2n.ir/496654) | [Python](Solved/Adaade%20Fisaghooresi) |
-[مربع توخالی](https://b2n.ir/106578) | [Python](Solved/Moraba'%20Tookhali) |
+[]() | [Bash]() |
 
 ## Scripting in Linux
 
 Question | Solution
  --- | ---
-[عدد فیثاغورثی](https://b2n.ir/496654) | [Python](Solved/Adaade%20Fisaghooresi) |
-[مربع توخالی](https://b2n.ir/106578) | [Python](Solved/Moraba'%20Tookhali) |
+[]() | [Bash]() |
+
 
 ## Processes in Linux
 Question | Solution
  --- | ---
-[عدد فیثاغورثی](https://b2n.ir/496654) | [Python](Solved/Adaade%20Fisaghooresi) |
-[مربع توخالی](https://b2n.ir/106578) | [Python](Solved/Moraba'%20Tookhali) |
+[]() | [Bash]() |
 
