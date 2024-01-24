@@ -1,4 +1,5 @@
 # Linux Course Solutions at ![کوئرا](https://user-images.githubusercontent.com/49264993/137637114-e0687e95-08eb-4181-98b0-56fe515f6bc7.png)
+### Content:
   - Intro to Linux
   - [Installation and setup of Linux](#installation-and-setup-of-linux)
   - [Basic commands](#basic-commands)
