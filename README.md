@@ -72,5 +72,9 @@ Question | Solution
 ## Processes in Linux
 Question | Solution
  --- | ---
+[کارآگاه علوی](https://quera.org/college/8903/chapter/32293/lesson/139304/) | [Bash]() |
+[]() | [Bash]() |
+[]() | [Bash]() |
+[]() | [Bash]() |
 []() | [Bash]() |
 

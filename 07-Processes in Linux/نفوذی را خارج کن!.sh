@@ -1,0 +1,2 @@
+echo 'I dont know who you are but im gonna find you!' > /tmp/$(ps aux | grep danger: | head -n 1 | awk {'print $11'} | cut -d: -f 2)
+kill -19 $(ps xao pid,cmd | grep danger: | awk '{print $1}' | head -n 1)
