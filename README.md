@@ -72,9 +72,8 @@ Question | Solution
 ## Processes in Linux
 Question | Solution
  --- | ---
-[کارآگاه علوی](https://quera.org/college/8903/chapter/32293/lesson/139304/) | [Bash]() |
-[]() | [Bash]() |
-[]() | [Bash]() |
-[]() | [Bash]() |
-[]() | [Bash]() |
-
+[کارآگاه علوی](https://quera.org/college/8903/chapter/32293/lesson/139304/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/%DA%A9%D8%A7%D8%B1%D8%A2%DA%AF%D8%A7%D9%87%20%D8%B9%D9%84%D9%88%DB%8C.sh) |
+[pes باز](https://quera.org/college/8903/chapter/32293/lesson/138721/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/pes%20%D8%A8%D8%A7%D8%B2.sh) |
+[اتاق فرمان](https://quera.org/college/8903/chapter/32293/lesson/139820/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/%D8%A7%D8%AA%D8%A7%D9%82%20%D9%81%D8%B1%D9%85%D8%A7%D9%86.sh) |
+[پراسس مزاحم](https://quera.org/college/8903/chapter/32293/lesson/114949/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/%D9%BE%D8%B1%D8%A7%D8%B3%D8%B3%20%D9%85%D8%B2%D8%A7%D8%AD%D9%85.sh) |
+[نفوذی را خارج کن!](https://quera.org/college/8903/chapter/32293/lesson/113968/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/07-Processes%20in%20Linux/%D9%86%D9%81%D9%88%D8%B0%DB%8C%20%D8%B1%D8%A7%20%D8%AE%D8%A7%D8%B1%D8%AC%20%DA%A9%D9%86!.sh) |
