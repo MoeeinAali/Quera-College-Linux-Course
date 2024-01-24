@@ -58,7 +58,15 @@ Question | Solution
 
 Question | Solution
  --- | ---
-[]() | [Bash]() |
+[اولین اسکریپت](https://quera.org/college/8903/chapter/32294/lesson/114579/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D8%A7%D9%88%D9%84%DB%8C%D9%86%20%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA.sh) |
+[ماشین حساب](https://quera.org/college/8903/chapter/32294/lesson/114580/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%AD%D8%B3%D8%A7%D8%A8.sh) |
+[سنگ‌کاغذ‌قیچی](https://quera.org/college/8903/chapter/32294/lesson/114581/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D8%B3%D9%86%DA%AF%E2%80%8C%DA%A9%D8%A7%D8%BA%D8%B0%E2%80%8C%D9%82%DB%8C%DA%86%DB%8C.sh) |
+[ماشین حساب بهتر!](https://quera.org/college/8903/chapter/32294/lesson/114582/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%A8%D9%87%D8%AA%D8%B1!.sh) |
+[Todo List - فاز اول](https://quera.org/college/8903/chapter/32294/lesson/114588/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/Todo%20List%20-%20%D9%81%D8%A7%D8%B2%20%D8%A7%D9%88%D9%84.sh) |
+[آخرت ماشین حساب!](https://quera.org/college/8903/chapter/32294/lesson/114584/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D8%A2%D8%AE%D8%B1%D8%AA%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D8%AD%D8%B3%D8%A7%D8%A8!.sh) |
+[محاسبه‌گر مساحت](https://quera.org/college/8903/chapter/32294/lesson/114587/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87%E2%80%8C%DA%AF%D8%B1%20%D9%85%D8%B3%D8%A7%D8%AD%D8%AA.sh) |
+[Todo List - فاز دوم](https://quera.org/college/8903/chapter/32294/lesson/114589/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/Todo%20List%20-%20%D9%81%D8%A7%D8%B2%20%D8%AF%D9%88%D9%85.sh) |
+[Todo List - فاز سوم](<https://quera.org/college/8903/chapter/32294/lesson/114590/>) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/06-Scripting%20in%20Linux/Todo%20List%20-%20%D9%81%D8%A7%D8%B2%20%D8%B3%D9%88%D9%85.sh) |
 
 
 ## Processes in Linux
