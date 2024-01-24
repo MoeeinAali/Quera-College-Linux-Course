@@ -31,11 +31,17 @@ Question | Solution
 ## Working with files and strings
 Question | Solution
  --- | ---
-[دیدن سخت](https://quera.org/college/8903/chapter/32290/lesson/108595/) | [Bash]() |
-[]() | [Bash]() |
-[]() | [Bash]() |
-[]() | [Bash]() |
-[]() | [Bash]() |
+[درون ترمینالی](https://quera.org/college/8903/chapter/32291/lesson/110626/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D8%AF%D8%B1%D9%88%D9%86%20%D8%AA%D8%B1%D9%85%DB%8C%D9%86%D8%A7%D9%84%DB%8C.sh) |
+[فایل‌های چپکی](https://quera.org/college/8903/chapter/32291/lesson/110634/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D9%81%D8%A7%DB%8C%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C%20%DA%86%D9%BE%DA%A9%DB%8C.sh) |
+[مُصکات](https://quera.org/college/8903/chapter/32291/lesson/111870/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D9%85%D9%8F%D8%B5%DA%A9%D8%A7%D8%AA.sh) |
+[اُستاد سَلیب](https://quera.org/college/8903/chapter/32291/lesson/111873/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D8%A7%D9%8F%D8%B3%D8%AA%D8%A7%D8%AF%20%D8%B3%D9%8E%D9%84%DB%8C%D8%A8.sh) |
+[کاراگاه گرپجِت](https://quera.org/college/8903/chapter/32291/lesson/111875/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%DA%A9%D8%A7%D8%B1%D8%A7%DA%AF%D8%A7%D9%87%20%DA%AF%D8%B1%D9%BE%D8%AC%D9%90%D8%AA.sh) |
+[جست‌وجوگر](https://quera.org/college/8903/chapter/32291/lesson/110635/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D8%AC%D8%B3%D8%AA%E2%80%8C%D9%88%D8%AC%D9%88%DA%AF%D8%B1.sh) |
+[تنظیم وایلدکارد](https://quera.org/college/8903/chapter/32291/lesson/110583/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%20%D9%88%D8%A7%DB%8C%D9%84%D8%AF%DA%A9%D8%A7%D8%B1%D8%AF.sh) |
+[دوباره‌سازی](https://quera.org/college/8903/chapter/32291/lesson/111021/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C.sh) |
+[فری فراموشکار](https://quera.org/college/8903/chapter/32291/lesson/113758/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D9%81%D8%B1%DB%8C%20%D9%81%D8%B1%D8%A7%D9%85%D9%88%D8%B4%DA%A9%D8%A7%D8%B1.sh) |
+[نمایش شکیل](https://quera.org/college/8903/chapter/32291/lesson/142790/) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/04-Working%20with%20files%20and%20strings/%D9%86%D9%85%D8%A7%DB%8C%D8%B4%20%D8%B4%DA%A9%DB%8C%D9%84.sh) |
+
 
 
 ## Access control in Linux
