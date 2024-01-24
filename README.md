@@ -47,7 +47,12 @@ Question | Solution
 ## Access control in Linux
 Question | Solution
  --- | ---
-[]() | [Bash]() |
+[نبرد شِل رضا لینوکس](https://quera.org/college/8903/chapter/32292/lesson/110177/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D8%B4%D9%90%D9%84%20%D8%B1%D8%B6%D8%A7%20%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3.sh) |
+[نبرد ساخت و پاک یوزر](https://quera.org/college/8903/chapter/32292/lesson/111489/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%88%20%D9%BE%D8%A7%DA%A9%20%DB%8C%D9%88%D8%B2%D8%B1.sh) |
+[نبرد میان یوزری](https://quera.org/college/8903/chapter/32292/lesson/111490/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D9%85%DB%8C%D8%A7%D9%86%20%DB%8C%D9%88%D8%B2%D8%B1%DB%8C.sh) |
+[نبرد دسترسی](https://quera.org/college/8903/chapter/32292/lesson/111491/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C.sh) |
+[نبرد دسترسی](https://quera.org/college/8903/chapter/32292/lesson/111491/?submissions_page=1&comments_page=1&comments_filter=ALL) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%86%D8%A8%D8%B1%D8%AF%20%D8%AF%D8%B3%D8%AA%D8%B1%D8%B3%DB%8C.sh) |
+[مساله پکیج منیجر](https://quera.org/college/8903/chapter/32292/lesson/111877/?comments_page=1&comments_filter=ALL&submissions_page=1) | [Bash](https://github.com/MoeeinAali/Quera-College-Linux-Course/blob/main/05-Access%20control%20in%20Linux/%D9%85%D8%B3%D8%A7%D9%84%D9%87%20%D9%BE%DA%A9%DB%8C%D8%AC%20%D9%85%D9%86%DB%8C%D8%AC%D8%B1.sh) |
 
 ## Scripting in Linux
 
