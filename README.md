@@ -14,8 +14,7 @@
 ## Installation and setup of Linux
 Question | Solution
  --- | ---
-[عدد فیثاغورثی](https://b2n.ir/496654) | [Python](Solved/Adaade%20Fisaghooresi) |
-[مربع توخالی](https://b2n.ir/106578) | [Python](Solved/Moraba'%20Tookhali) |
+[سلام کوئرا](https://quera.org/college/8903/chapter/32289/lesson/106744) | [Bash](Solved/Adaade%20Fisaghooresi) |
 
 ## Basic commands
 Question | Solution
