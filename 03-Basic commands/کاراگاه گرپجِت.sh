@@ -1,0 +1,1 @@
+grep -in -C 2 'linux\|kill\|windows' data.txt > clues

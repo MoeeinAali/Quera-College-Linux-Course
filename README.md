@@ -31,8 +31,11 @@ Question | Solution
 ## Working with files and strings
 Question | Solution
  --- | ---
-[عدد فیثاغورثی](https://b2n.ir/496654) | [Python](Solved/Adaade%20Fisaghooresi) |
-[مربع توخالی](https://b2n.ir/106578) | [Python](Solved/Moraba'%20Tookhali) |
+[دیدن سخت](https://quera.org/college/8903/chapter/32290/lesson/108595/) | [Bash]() |
+[]() | [Bash]() |
+[]() | [Bash]() |
+[]() | [Bash]() |
+[]() | [Bash]() |
 
 
 ## Access control in Linux
